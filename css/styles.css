@@ -1,15 +1,14 @@
 body {
-  margin:150px;
+  margin-left:300px;
+  margin-right:300px;
   color:aliceblue;
-  background-color:rgb(46, 17, 6);
-  background-image: url("/img/image2.jpg");
-  background-repeat:repeat;
+  background-color:rgb(0, 10, 156);
 }
 img {
   padding: 40px;
-  background-color:rgb(56, 48, 37);
-  width:340px;
-  height:240px;
+  background-color:rgb(0, 75, 161);
+  width:240px;
+  height:160px;
 }
 p {
   text-align:center;
@@ -24,10 +23,10 @@ a:any-link {
   color:aliceblue;
 }
 h1 {
-  text-align:center;
-  font-family:cursive;
-  background-color: darkred;
-  color: yellow;
+  text-align:left;
+  background-color:rgb(167, 238, 238);
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgb(0, 47, 68);
 }
 h2 {
   text-align:center;
